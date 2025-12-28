@@ -1,0 +1,85 @@
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont,
+               "Segoe UI", Arial, Helvetica, sans-serif;
+}
+
+
+.hero,
+.footer {
+  background-color: #1F2937;
+  color: #F9FAF8;
+}
+
+
+.logo {
+  font-size: 24px;
+  font-weight: 900;
+  color: #F9FAF8;
+}
+
+.header-links {
+  font-size: 18px;
+  color: #E5E7EB;
+}
+
+.hero h1 {
+  font-size: 48px;
+  font-weight: 900;
+  color: #F9FAF8;
+}
+
+.hero p {
+  font-size: 18px;
+  color: #E5E7EB;
+}
+
+button {
+  background-color: #3882F6;
+  color: #F9FAF8;
+  border: none;
+  border-radius: 6px;
+  padding: 8px 24px;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+
+.info h2 {
+  font-size: 36px;
+  font-weight: 900;
+  color: #1F2937;
+}
+
+
+.quote {
+  background-color: #E5E7EB;
+}
+
+.quote-text {
+  font-size: 36px;
+  font-weight: 300;
+  color: #1F2937;
+  font-style: italic;
+}
+
+.quote-author {
+  font-weight: 700;
+  color: #1F2937;
+}
+
+.cta {
+  background-color: #3882F6;
+  color: #F9FAF8;
+}
+
+.cta button {
+  background-color: transparent;
+  border: 2px solid #F9FAF8;
+}
